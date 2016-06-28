@@ -14,7 +14,7 @@ global:
   distrib: debian
   release: wheezy
   release_number: 7
-  kernel_arch: amd64
+  kernel_arch: i386
 
   # Apt recipe options
   apt_repository: http://ftp.debian.org/debian/
